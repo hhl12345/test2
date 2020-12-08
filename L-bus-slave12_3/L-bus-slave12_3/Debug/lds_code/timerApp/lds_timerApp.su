@@ -1,0 +1,7 @@
+lds_timerApp.c:34:6:timerApp_register	24	static
+lds_timerApp.c:42:6:timerApp_unregister	16	static
+lds_timerApp.c:54:6:timerApp_task	16	static
+lds_timerApp.c:81:6:timerApp_ticks	16	static
+lds_timerApp.c:89:10:timerApp_getCounterVal	16	static
+lds_timerApp.c:93:17:timerApp_getStat	16	static
+lds_timerApp.c:97:6:timerApp_null	8	static

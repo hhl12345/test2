@@ -1,0 +1,6 @@
+lds_LBus_system.c:16:6:systemInfo_factory	8	static
+lds_LBus_system.c:36:6:readFlash_systemInfo_fun	8	static
+lds_LBus_system.c:43:6:writeFlash_systemInfo_fun	8	static
+lds_LBus_system.c:50:6:devicePra_factory	8	static
+lds_LBus_system.c:60:6:readFlash_devicePra_fun	8	static
+lds_LBus_system.c:67:6:writeFlash_devicePro_fun	8	static

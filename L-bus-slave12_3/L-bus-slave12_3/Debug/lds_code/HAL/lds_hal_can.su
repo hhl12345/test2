@@ -1,0 +1,3 @@
+lds_hal_can.c:12:6:hal_can_init	8	static
+lds_hal_can.c:26:10:hal_can0_getExtData	40	static
+lds_hal_can.c:58:10:hal_can0_sendExtData	40	static

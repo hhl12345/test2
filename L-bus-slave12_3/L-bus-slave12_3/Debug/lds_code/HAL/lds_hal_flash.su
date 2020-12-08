@@ -1,0 +1,5 @@
+lds_hal_flash.c:13:10:hal_flash_open	8	static
+lds_hal_flash.c:23:10:hal_flash_close	8	static
+lds_hal_flash.c:39:10:hal_flash_read	32	static
+lds_hal_flash.c:65:10:hal_flash_write	48	static
+lds_hal_flash.c:120:10:hal_flash_erasePage	24	static

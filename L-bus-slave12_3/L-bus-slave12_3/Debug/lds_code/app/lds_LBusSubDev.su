@@ -1,0 +1,4 @@
+lds_LBusSubDev.c:20:6:LBusSubDev_init	8	static
+lds_LBusSubDev.c:55:6:LBusSubDev_task	8	static
+lds_LBusSubDev.c:106:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+lds_LBusSubDev.c:110:6:HAL_TIM_PeriodElapsedCallback	16	static

@@ -1,0 +1,11 @@
+core_cm0.h:856:34:__NVIC_SystemReset	8	static,ignoring_inline_asm
+lds_LBus_basic_func.c:22:10:LBus_basic_SN_func	56	static
+lds_LBus_basic_func.c:115:10:LBus_basic_modelIDFunc	64	static
+lds_LBus_basic_func.c:206:10:LBus_basic_firewmareUpdata	72	static
+lds_LBus_basic_func.c:328:10:LBus_basic_CAN_ID_func	72	static
+lds_LBus_basic_func.c:392:6:LBus_basic_device_reset_func	8	static
+lds_LBus_basic_func.c:397:10:LBus_basic_get_firmware_ver_func	8	static
+lds_LBus_basic_func.c:402:10:LBus_basic_get_hardware_ver_func	8	static
+lds_LBus_basic_func.c:408:10:modeID_operate_func	16	static
+lds_LBus_basic_func.c:414:10:hand_Auto_operate_func	16	static
+lds_LBus_basic_func.c:420:10:reported_deviceInfo_func	16	static

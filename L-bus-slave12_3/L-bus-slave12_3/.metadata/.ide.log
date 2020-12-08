@@ -1,0 +1,28 @@
+2020-11-27 17:11:54,048 [INFO] Activator:170 - 
+
+
+2020-11-27 17:11:54,050 [INFO] Activator:171 - !SESSION log4j initialized
+2020-11-27 17:12:30,938 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:30,940 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:30,965 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:30,966 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:30,992 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:30,992 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,040 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,040 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,075 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,075 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,100 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,100 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,272 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,272 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,294 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,294 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,322 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,322 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,378 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,378 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,407 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,407 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-27 17:12:31,433 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2020-11-27 17:12:31,433 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80

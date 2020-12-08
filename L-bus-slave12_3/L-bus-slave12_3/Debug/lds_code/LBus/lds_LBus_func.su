@@ -1,0 +1,4 @@
+lds_LBus_func.c:20:6:LBus_func_decode	40	static
+lds_LBus_func.c:116:10:LBus_func_rec	40	static
+lds_LBus_func.c:153:10:LBus_func_encode	24	static
+lds_LBus_func.c:257:10:LBus_func_send	24	static

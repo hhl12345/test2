@@ -1,0 +1,4 @@
+lds_lightSensor.c:9:6:lightSensor_initConfig	16	static
+lds_lightSensor.c:19:6:lightSensor_getVal	8	static
+lds_lightSensor.c:25:6:lightSensor_readLightVal	8	static
+lds_lightSensor.c:29:6:lightSensor_task	16	static

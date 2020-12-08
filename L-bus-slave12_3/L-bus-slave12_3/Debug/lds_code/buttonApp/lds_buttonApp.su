@@ -1,0 +1,3 @@
+lds_buttonApp.c:41:6:buttonApp_register	24	static
+lds_buttonApp.c:60:6:buttonApp_ticks	16	static
+lds_buttonApp.c:95:6:app_rstButton	40	static
